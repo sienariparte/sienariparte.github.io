@@ -9,13 +9,13 @@
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Siena Riparte! &raquo; Feed" href="http://localhost/index.php/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Siena Riparte! &raquo; Feed dei commenti" href="http://localhost/index.php/comments/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='parallax-frame-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='parallax-frame-style-css'  href='http://localhost/wp-content/themes/parallax-frame/style.css?ver=1.3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='http://localhost/wp-content/themes/parallax-frame/css/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='jquery-sidr-css'  href='http://localhost/wp-content/themes/parallax-frame/css/jquery.sidr.light.min.css?ver=2.1.0' type='text/css' media='all' />
 <!--[if lte IE 9]>
-<link rel='stylesheet' id='parallax-frame-ie9-css'  href='http://localhost/wp-content/themes/parallax-frame/js/html5.min.js?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='parallax-frame-ie9-css'  href='http://localhost/wp-content/themes/parallax-frame/js/html5.min.js?ver=5.4.2' type='text/css' media='all' />
 <![endif]-->
 <script type='text/javascript' src='http://localhost/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='http://localhost/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
@@ -23,7 +23,7 @@
 <script type='text/javascript' src='http://localhost/wp-content/themes/parallax-frame/js/custom-scripts.min.js'></script>
 <link rel='https://api.w.org/' href='http://localhost/index.php/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.4.1" />
+<meta name="generator" content="WordPress 5.4.2" />
 <link rel="icon" href="http://localhost/wp-content/uploads/2020/06/cropped-logo_240x240-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="http://localhost/wp-content/uploads/2020/06/cropped-logo_240x240-192x192.jpg" sizes="192x192" />
 <link rel="apple-touch-icon" href="http://localhost/wp-content/uploads/2020/06/cropped-logo_240x240-180x180.jpg" />
@@ -129,7 +129,7 @@
 				<li class="cat-item cat-item-3"><a href="http://localhost/index.php/category/comunicati-stampa/">Comunicati stampa</a>
 </li>
 		</ul>
-			</div><!-- .widget-wrap --></section><!-- #widget-default-search --><section id="parallax_frame_social_icons-3" class="widget widget_parallax_frame_social_icons"><div class="widget-wrap"><h2 class="widget-title">Siamo anche su...</h2><a class="genericon_parent genericon genericon-facebook-alt" target="_blank" title="Facebook" href="https://www.facebook.com/sienariparte"><span class="screen-reader-text">Facebook</span> </a><a class="genericon_parent genericon genericon-mail" target="_blank" title="Email" href="mailto:s&#105;e&#110;a&#114;&#105;&#112;&#97;rt&#101;&#64;gm&#97;&#105;&#108;&#46;com"><span class="screen-reader-text">Email</span> </a></div><!-- .widget-wrap --></section><!-- #widget-default-search -->	</aside><!-- .sidebar sidebar-primary widget-area -->
+			</div><!-- .widget-wrap --></section><!-- #widget-default-search --><section id="parallax_frame_social_icons-3" class="widget widget_parallax_frame_social_icons"><div class="widget-wrap"><h2 class="widget-title">Siamo anche su...</h2><a class="genericon_parent genericon genericon-facebook-alt" target="_blank" title="Facebook" href="https://www.facebook.com/sienariparte"><span class="screen-reader-text">Facebook</span> </a><a class="genericon_parent genericon genericon-mail" target="_blank" title="Email" href="mailto:&#115;ie&#110;a&#114;&#105;&#112;&#97;&#114;&#116;e&#64;&#103;mail&#46;&#99;&#111;&#109;"><span class="screen-reader-text">Email</span> </a></div><!-- .widget-wrap --></section><!-- #widget-default-search -->	</aside><!-- .sidebar sidebar-primary widget-area -->
 
 			</div><!-- .wrapper -->
 	    </div><!-- #content -->
@@ -139,8 +139,6 @@
     	<div id="site-generator" class="two">
     		<div class="wrapper">
     			<div id="footer-left-content" class="copyright">Copyright &copy; 2020 <a href="http://localhost/">Siena Riparte!</a>. All Rights Reserved. </div>
-
-    			<div id="footer-right-content" class="powered">Parallax Frame&nbsp;by&nbsp;<a target="_blank" href="https://catchthemes.com/">Catch Themes</a></div>
 			</div><!-- .wrapper -->
 		</div><!-- #site-generator -->	</footer><!-- #colophon -->
 			</div><!-- #page -->
